@@ -1,6 +1,6 @@
-# assignment2app
+# todo_app_beta
 
-Assignment for IRIS flutter bootcamp
+Please find a modified version as todo_app
 
 ## Getting Started
 
